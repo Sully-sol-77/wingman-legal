@@ -1,4 +1,4 @@
-# Wingman Legal Pages
+# North Legal Pages
 
 Static HTML pages for Apple App Store review requirements (Privacy Policy, Terms of Service, and Support).
 
